@@ -14,7 +14,7 @@ int main(){
                 printf("The number is prime.\n");
             else
                 printf("The number is not prime.\n");       
-
+printf("Learning git");
    return 0;
     }
        
